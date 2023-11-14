@@ -1,0 +1,69 @@
+In this file you will foulder :
+
+Frontend foulder contain :
+
+Task 1: S1V Website Transformation
+
+Approach:
+
+ Technologies Used:
+
+   HTML, CSS, Bootstrap for styling.
+   JavaScript for enhanced functionality.
+   Ensured full responsiveness for a seamless experience across various screen sizes.
+
+ Coding Standards:
+
+   Produced clean, well-organized code following best practices.
+   Incorporated a minimum of four Bootstrap classes for styling elements.
+
+ Additional Features:
+
+   Incorporated animations to make the website more engaging.
+
+
+
+
+PHP Contact Form foulder contain:
+
+Task 2: PHP Contact Form with Database Integration
+
+Approach:
+
+ Setup:
+
+   Installed and set up XAMPP for local development.
+ 
+ Database Setup:
+
+   Created a new database named "contact_form_db" using phpMyAdmin.
+   
+ HTML Form (index.html):
+
+   Designed a basic HTML form with fields for Name, Email, Message, and a Submit button.
+   Validated the email input to ensure a valid email address.
+
+ PHP Backend (contact.php):
+
+   Wrote PHP code to handle form submissions.
+   Connected to the "contact_form_db" database using PHP and XAMPP.
+   Validated input data and inserted it into the "contacts" database table.
+
+ Security Measures:
+
+   Implemented basic security measures to prevent common vulnerabilities.
+
+ Additional Features Implemented:
+
+   Enhanced the user interface with CSS.
+
+
+Additional foulder contain:
+
+The two tasks combined together 
+
+
+
+GitHub Repository:
+https://github.com/malek96sawalha/BlueRay-Task
+Uploaded the completed project files to a GitHub repository for version control.
